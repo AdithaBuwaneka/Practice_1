@@ -72,7 +72,7 @@ function App() {
           <form onSubmit={getTheTargetAmount}>
             <div className="mb-4">
               <label
-                className="block mb-2 text-sm font-medium text-gray-900 dark:text-white"
+                className="block mb-2 text-sm font-medium text-gray-800 dark:text-white"
                 htmlFor="date"
               >
                 Date
@@ -90,7 +90,7 @@ function App() {
 
             <div className="mb-4">
               <label
-                className="block mb-2 text-sm font-medium text-gray-900 dark:text-white"
+                className="block mb-2 text-sm font-medium text-gray-600 dark:text-white"
                 htmlFor="sourceCurrency"
               >
                 Source Currency
